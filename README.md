@@ -65,6 +65,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GoldSonBR/GoldSonBR/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="220" src="https://i.imgur.com/3fWqjbt.gif"  />
+</div>
 
 ###
